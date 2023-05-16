@@ -1,0 +1,7 @@
+# Database credentials
+DB_HOST="localhost"
+DB_USER="postgres"
+DB_PASSWORD="hrhk"
+DB_NAME="golang"
+DB_PORT=5432
+API_SECRET = '123456'
